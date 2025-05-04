@@ -1,4 +1,4 @@
-//Ejemplo 1: recorrer un arrau con for...in y for...of
+//Ejemplo 1: recorrer un array con for...in y for...of
 
 let countries: string []= ['Argentina', 'Belice' , 'Chile', 'Dinamarca'];
 

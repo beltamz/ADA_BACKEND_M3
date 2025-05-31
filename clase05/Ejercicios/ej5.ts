@@ -8,7 +8,7 @@ proporciona la implementación del método presentarse(). */
 interface IPersona{
     nombre: string;
     edad: number;
-    presentarse:()=>void;
+    presentarse():void;
 }
 
 class Persona implements IPersona{
